@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046016553031",
+    "project_id": "devsri",
+    "storage_bucket": "devsri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046016553031:android:1819a6cf8749d523ea0162",
+        "android_client_info": {
+          "package_name": "org.prisri.devsri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSYlRc1Aai5texmf3v2TpV3IKd77YkY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
